@@ -24,7 +24,7 @@ export const comments: CommentType[] = [
         username: 'แมวตัวหนึ่ง',
         userImagePath: '/profileImages/popcat.png',
         commentText: 'บะลั่กบะลั่กอุ่กอุ่ก',
-        likeNum: 2,
+        likeNum: 9,
         replies: []
       }
     ]
@@ -33,7 +33,7 @@ export const comments: CommentType[] = [
     username: 'P-Arm',
     userImagePath: '/profileImages/handsome.jpg',
     commentText: 'แค่นี้เอง ชิวๆป่าว',
-    likeNum: 207,
+    likeNum: 999,
     replies: []
   }
 ]
