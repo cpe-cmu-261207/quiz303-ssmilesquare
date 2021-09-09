@@ -14,7 +14,7 @@ export const comments: CommentType[] = [
     likeNum: 99,
     replies: [
       {
-        username: 'VALORAN',
+        username: 'VALORANT',
         userImagePath: '/profileImages/valorant.jpg',
         commentText: 'มาเล่นเกมกันดีกว่าครับ',
         likeNum: 0,
